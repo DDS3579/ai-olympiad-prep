@@ -77,3 +77,10 @@ Multi-line:
 """ This 
 is a comment """
 
+
+
+
+Type and Conversion:
+to Check: type()
+to convert: int(), float(), 
+
